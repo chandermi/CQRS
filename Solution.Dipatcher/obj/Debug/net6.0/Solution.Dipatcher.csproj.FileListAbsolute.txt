@@ -1,0 +1,53 @@
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.AssemblyReference.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfoInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfo.cs
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.deps.json
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CopyComplete
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\refint\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\ref\Solution.Dipatcher.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.deps.json
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CopyComplete
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\refint\Solution.Dipatcher.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\ref\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.deps.json
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Helper.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Helper.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.Infrastructure.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.AssemblyReference.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfoInputs.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.AssemblyInfo.cs
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.csproj.CopyComplete
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\refint\Solution.Dipatcher.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\Solution.Dipatcher.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Solution.Dipatcher\obj\Debug\net6.0\ref\Solution.Dipatcher.dll

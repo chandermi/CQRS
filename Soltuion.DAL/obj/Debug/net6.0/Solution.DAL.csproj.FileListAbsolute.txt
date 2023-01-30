@@ -1,0 +1,36 @@
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.deps.json
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.AssemblyReference.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfoInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfo.cs
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\refint\Solution.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.deps.json
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfo.cs
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\refint\Solution.DAL.dll
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.pdb
+C:\Users\Admin\Downloads\ECommerce (1)\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.deps.json
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.AssemblyReference.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfoInputs.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.AssemblyInfo.cs
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\refint\Solution.DAL.dll
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Solution.DAL.pdb
+C:\Work\Projects\Personal\GT\ECommerce\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\ref\Solution.DAL.dll

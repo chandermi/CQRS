@@ -1,0 +1,12 @@
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Soltuion.DAL.deps.json
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Soltuion.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\bin\Debug\net6.0\Soltuion.DAL.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.csproj.AssemblyReference.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.AssemblyInfoInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.AssemblyInfo.cs
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.csproj.CoreCompileInputs.cache
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\refint\Soltuion.DAL.dll
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\Soltuion.DAL.pdb
+C:\Work\Projects\Personal\ECommerce\Solution\Soltuion.DAL\obj\Debug\net6.0\ref\Soltuion.DAL.dll
